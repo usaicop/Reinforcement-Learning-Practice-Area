@@ -3,6 +3,11 @@
 Welcome to the USAICOP (US AI Community of Practice) Reinforcement Learning Practice Area! This repository is dedicated to sharing knowledge, resources, and discussions around the application of reinforcement learning (RL) within the federal government.
 This is not intended to display official communications or policy, or an official information source on the federal government's use of reinforcement learning. This is intended to be a learning resource.
 
+## Join the Discussion
+Feel free to participate in our [Discussions](https://github.com/usaicop/Reinforcement-Learning-Practice-Area/discussions) to share your experiences, ask questions, and collaborate with other members of the USAICOP community.
+
+## Contact
+For any questions or suggestions, please contact us at [ai-cop-support-team@gsa.gov](mailto:ai-cop-support-team@gsa.gov).
 ## About This Repository
 
 This repository serves as a hub for:
@@ -13,25 +18,14 @@ This repository serves as a hub for:
 
 ## Federal Government Applications of Reinforcement Learning
 
-Reinforcement learning (RL) is being increasingly adopted by federal agencies to optimize processes, improve decision-making, and enhance operational efficiency. Here are a few examples:
+Reinforcement learning (RL) powers a lot of different systems from your vacuum robot to autonomous space flight systems. Here are a few examples:
 
-1. **Department of Defense (DoD):** Utilizing RL for training simulations and autonomous systems to enhance strategic planning and decision-making.
-2. **National Aeronautics and Space Administration (NASA):** Applying RL in robotics for space exploration missions and optimizing satellite operations.
-3. **Federal Aviation Administration (FAA):** Implementing RL for air traffic management to ensure safety and efficiency in airspace operations.
-4. **National Institutes of Health (NIH):** Using RL in healthcare research to develop personalized treatment plans and improve patient outcomes.
+1. **National Aeronautics and Space Administration (NASA):** Exploring improving [deep space communications](https://ntrs.nasa.gov/api/citations/20190026713/downloads/20190026713.pdf) and [deep space network scheduling](https://arxiv.org/pdf/2102.05167) using RL.
+
 
 ## Learning Resources
 
 To help you get started or advance your knowledge in reinforcement learning, we've compiled a list of valuable resources:
-
-## Join the Discussion
-
-Feel free to participate in our [Discussions](https://github.com/usaicop/Reinforcement-Learning-Practice-Area/discussions) to share your experiences, ask questions, and collaborate with other members of the USAICOP community.
-
-
-## Contact
-
-For any questions or suggestions, please contact us at [ai-cop-support-team@gsa.gov](mailto:ai-cop-support-team@gsa.gov).
 
 ---
 
