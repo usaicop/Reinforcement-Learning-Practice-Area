@@ -35,7 +35,7 @@ For any questions or suggestions, please contact us at [ai-cop-support-team@gsa.
 
 ---
 
-### Other Great Resources on Github
+### Great RL Resources on Github
 - [Github Topics - Reinforcement Learning](https://github.com/topics/reinforcement-learning)
 - [Dennybritz Reinforcement Learning Repo](https://github.com/dennybritz/reinforcement-learning)
 - [Reinforcement Learning Gymnasium](https://github.com/Farama-Foundation/Gymnasium)
