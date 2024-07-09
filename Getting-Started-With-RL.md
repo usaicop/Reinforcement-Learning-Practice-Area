@@ -7,7 +7,7 @@ This is not intended to display official communications or policy, or an officia
 Feel free to participate in our [Discussions](https://github.com/usaicop/Reinforcement-Learning-Practice-Area/discussions) to share your experiences, ask questions, and collaborate with other members of the USAICOP community.
 
 ## Contact
-For any questions or suggestions, please contact us at [ai-cop-support-team@gsa.gov](mailto:ai-cop-support-team@gsa.gov).
+For any questions or suggestions, please contact us at [AICoP@gsa.gov](mailto:AICoP@gsa.gov).
 ## About This Repository
 
 This repository serves as a hub for:
